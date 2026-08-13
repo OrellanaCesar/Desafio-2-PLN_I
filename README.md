@@ -1,4 +1,4 @@
-# Desafio 1: Procesamiento de Lenguaje Natural I
+# Desafio 2: Procesamiento de Lenguaje Natural I
 
 Este repositorio contiene la resolución del Desafío Nº 2 de la materia **Procesamiento de Lenguaje Natural I** (Especialidad en Inteligencia Artificial, FIUBA).
 
